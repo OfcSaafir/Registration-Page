@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+body{
+    text-align: center;
+    font-family: "SUSE", sans-serif;
+}
+span{
+    color: #ff0000;
+}
+.textbox{
+    padding: 10px;
+    border-radius: 5px;
+}
+h1{
+    font-size: xxx-large;
+}
+.btn{
+    padding: 20px;
+    border-radius: 10px;
+    color: black;
+    background-color:#ff0000;
+    border: none;
+    font-size: medium;
+}
+.btn:hover{
+    background: #d80404;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-size: small;
+}
+.checkbox{
+    cursor: pointer;
+}
